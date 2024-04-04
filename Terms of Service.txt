@@ -1,0 +1,29 @@
+Terms of Service
+=================
+
+1. Use of Service
+-----------------
+By using this application, you agree to abide by the terms outlined in this document.
+
+2. No Warranty
+--------------
+This application is provided "as is," without any warranty of any kind, express or implied.
+
+3. Limitation of Liability
+---------------------------
+In no event shall the developers be liable for any damages arising from the use of this application.
+
+4. Modifications to Terms
+-------------------------
+The developers reserve the right to modify these terms at any time without notice.
+
+5. Governing Law
+----------------
+These terms shall be governed by and construed in accordance with the laws of [Your Country].
+
+Privacy Policy
+===============
+
+Our privacy policy outlines how we collect, use, and protect your personal information. By using this application, you consent to the terms of our privacy policy.
+
+For questions or concerns about our terms of service or privacy policy, please contact [Your Contact Information].
